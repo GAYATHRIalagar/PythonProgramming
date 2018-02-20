@@ -1,0 +1,16 @@
+a=10
+b=20
+c=30
+d=40
+e=50
+f=60
+g=70
+h=80
+i=90
+j=100
+x=i+j
+y=a*b
+z=e/a
+print"x"
+print"y"
+print"z"
