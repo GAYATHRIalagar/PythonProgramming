@@ -11,6 +11,6 @@ j=100
 x=i+j
 y=a*b
 z=e/a
-print"x"
-print"y"
-print"z"
+print(x)
+print(y)
+print(z)
